@@ -2,7 +2,7 @@
 
 This Project allows authenticated users to go through a loan application. This is a mini version of loan repayment system build with Laravel framework (v9).
 
-### Features:
+### Features
 
 - User can register.
 - User can login.
